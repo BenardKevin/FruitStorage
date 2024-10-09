@@ -1,0 +1,2 @@
+# Java exercise: "La garde des fruits"
+You work for a local market, and you are asked to create a program that helps to check if the amount of fruit in the stock is enough for the next day. If the stock of apples is more than 100, then there is no need to buy more. Otherwise, it will be necessary to order more.
